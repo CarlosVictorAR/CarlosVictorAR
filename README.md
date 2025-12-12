@@ -9,7 +9,7 @@
 <h1><strong>Linguagens</strong></h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,nodejs,c,py,figma,typescript&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,c,py,figma,dart&perline=10" />
   </a>
 </p>
 <br><br><br><br>
