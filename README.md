@@ -15,7 +15,7 @@
 <br><br><br><br>
 <p align="left">
   <h1><strong>Contatos</strong></h1>
-  <a href="carlosvgitprofissional@gmail.com" title="Gmail">
+  <a href="mailto:carlosvgitprofissional@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="carlosvgitprofissional@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/carlos-victor-anselmo-reis-872b57377/" title="LinkedIn">
    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
