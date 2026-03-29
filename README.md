@@ -67,7 +67,7 @@ const carlos = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-carlosvgitprofissional%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosvgitprofissional@gmail.com)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%40carlos.vic340-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos.vic340/)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-victor-anselmo-reis-872b57377/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CarlosVictorAR)
 
 
 </div>
