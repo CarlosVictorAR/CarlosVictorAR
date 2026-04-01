@@ -27,7 +27,7 @@ const carlos = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,cpp&theme=dark&perline=8)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,java,cpp&theme=dark&perline=8)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=figma,github,git&theme=dark&perline=8)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=8)](https://skillicons.dev)
 </div>
